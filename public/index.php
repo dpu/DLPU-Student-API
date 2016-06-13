@@ -88,7 +88,7 @@ $app->get('/v2/notice/{username}', '\MyController:notice');
  * POST 参数:
  * {password}           密码: 更改后的密码
  */
-$app->get('/v2/password-update/{username}', '\MyController:passwordUpdate');
+$app->post('/v2/password-update/{username}', '\MyController:passwordUpdate');
 
 /**
  * 重置密码
@@ -99,7 +99,7 @@ $app->get('/v2/password-update/{username}', '\MyController:passwordUpdate');
  * POST 参数:
  * {id}                 身份证号码
  */
-$app->get('/v2/password-reset/{username}', '\MyController:passwordReset');
+$app->post('/v2/password-reset/{username}', '\MyController:passwordReset');
 
 /**
  * 培养方案
