@@ -1,14 +1,39 @@
 # DLPU-student-API
 
 ## Description
-大连工业大学 教务处|图书馆 学生端API，学生成绩/课表/考试安排等信息查询接口，目前为第二版, 服务器在校内。
+大连工业大学 教务处学生端API，学生成绩/课表/考试安排等信息查询接口
 
-## Use
-见接口文档: http://docs.dlpustudentapi.apiary.io/
+[![Software License][ico-license]](LICENSE.md)
 
-~~注：因服务器在校内，暂未开放443端口，因此暂时只能在校内使用，正在与校方联系开放443端口。~~
-校方已同意开放443端口，可以正常使用。
+## Usage
+
+API Document: http://docs.dlpustudentapi.apiary.io/
+
+## Change log
+
+Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recently.
+
+## Testing
+
+Tests unavailable.
+
+## Contributing
+
+Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
+
+## Security
+
+If you discover any security related issues, please using the issue tracker.
+
+## Credits
+
+- [Xu42](https://github.com/xu42)
+- [All Contributors](https://github.com/xu42/DLPU-student-API/contributors)
 
 ## License
-[MIT](LICENSE)
 
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+
+[ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
+[link-author]: https://github.com/xu42
+[link-contributors]: ../../contributors
