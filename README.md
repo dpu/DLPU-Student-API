@@ -1,5 +1,11 @@
 # DLPU-student-API
 
+
+## Warning: Deprecated
+
+***本项目已不再维护，请移至*** [xu42/dlpu-aao-api](https://github.com/xu42/dlpu-aao-api) 
+
+
 ## Description
 大连工业大学 教务处学生端API，学生成绩/课表/考试安排等信息查询接口
 
